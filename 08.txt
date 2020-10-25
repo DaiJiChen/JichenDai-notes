@@ -9,12 +9,12 @@ I watched the corresponding video.
 I wrote my first version of HW2, debugged it.
 
 Questions before class:
-	1. 
+	1.Is pipe a kind of System V IPC ? 
 
 After class:
 ------------
 Answer to questions:
-
+	1.
 
 Important take-away:
 -
