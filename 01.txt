@@ -1,0 +1,24 @@
+Lecture 01
+==========
+
+Before class:
+-------------
+I carrefully read the slides of introduction, UNIX history, UNIX basics.
+I watched the corresponding video.
+I readed the requirement of class notes.
+
+I configured the apue VM for course projects.
+I created a git repository for CS631.
+I joined the class Slack channel and mail list.
+
+
+Questions before class:
+	1.What is the difference between time_t and clock_t? 
+
+After class:
+------------
+Answer to questions:
+	1.time_t is an absolute time since 1 Jan 1970 while clock_t is a relative time.
+
+Important take-away:
+- always use -Wall -Werror -Wextra

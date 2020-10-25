@@ -1,0 +1,16 @@
+Lecture 03
+==========
+
+Before class:
+-------------
+I carrefully read the slides of stat(2), UID, struct stat st_mode, chmod(2) and chown(2), umask. 
+I watched videos in Youtube channel.
+
+I wrote HW1 and debugged it.
+
+
+After class:
+------------ 
+
+Important take-away:
+- real UID and GID cannot be changed, effective UID and GID can be changed. OS make access decision based on the effective UID and GID.

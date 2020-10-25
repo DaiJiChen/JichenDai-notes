@@ -1,0 +1,20 @@
+Lecture 07
+==========
+
+Before class:
+-------------
+I carrefully read the slides of Process Groups, Sessions, Signals.
+I watched videos in Youtube channel.
+
+I wrote a part of code of HW2.
+
+Questions before class:
+	1.Dose one process group corresponding to one job?
+
+After class:
+------------
+Answer to questions:
+	1. 
+
+Important take-away:
+- 

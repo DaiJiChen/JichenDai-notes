@@ -1,0 +1,20 @@
+Lecture 05
+==========
+
+Before class:
+-------------
+I carrefully read the slides of UNIX development tools.
+I readed the guideline of Git.
+
+I practiced to debuggung with GDB.
+
+Questions before class:
+	1. What is the advantage of debuggging using GDB.
+
+After class:
+------------
+nswer to questions:
+	1. GDB can give some more detailed informations about error and can be used through command line.
+
+Important take-away:
+- 

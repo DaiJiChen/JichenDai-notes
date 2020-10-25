@@ -1,0 +1,20 @@
+Lecture 06
+==========
+
+Before class:
+-------------
+I carrefully read the slides of Process, Environments and Process Control.
+I watched videos in Youtube channel.
+
+I runned the demo code of this week.
+
+Questions before class:
+	1.Could a parent process close child process? 
+
+After class:
+------------
+Answer to questions:
+
+
+Important take-away:
+- 

@@ -1,0 +1,22 @@
+Lecture 02
+==========
+
+Before class:
+-------------
+I carrefully read the slides of File Descriptors, open(2)/close(2), read(2)/write(2)/close(2), File Sharing.
+I watched videos in Youtube channel.
+I read the requirements for HW1.
+
+I runned demo codes of week2.
+
+Questions before class:
+	1. offset belong to file or belong to read(2) process?
+
+After class:
+------------
+Answer to questions:
+	1.offset belong to file, kernel naintains a file table that records current offset. 
+
+Important take-away:
+- Verity the return value after calling every function.
+- read(2) and write(2) both begins at the current offset, not the begining of the file.

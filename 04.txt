@@ -1,0 +1,21 @@
+Lecture 4
+==========
+
+Before class:
+-------------
+I carrefully read the slides of Filesystem, passwd, times.
+I watched videos in Youtube channel.
+
+I runned demo codes of week4.
+
+Questions before class:
+	1. Change mtime will change ctime?
+
+After class:
+------------
+Answer to questions:
+	1. Yes, change mtime will change both a time and ctime.
+
+Important take-away:
+- memory are divided into multiple partitions, each partition has it's own file system (tree structure).
+- directory size is depend on length of dilenames it contains because, directory is a kind of file, which map filename to inode, it don't actually contain data of files inside.
