@@ -1,0 +1,17 @@
+Lecture 09
+==========
+
+Before class:
+-------------
+I carrefully read the slides about socket.
+I watched the corresponding video.
+
+Questions before class:
+	1.Is there any difference between socket communication in same machine and socket communication in different machine? 
+
+After class:
+------------
+Answer to questions:
+-
+-
+-
