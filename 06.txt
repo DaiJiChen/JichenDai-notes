@@ -14,7 +14,7 @@ Questions before class:
 After class:
 ------------
 Answer to questions:
-
+	1.A thread can close another thread.
 
 Important take-away:
 - 

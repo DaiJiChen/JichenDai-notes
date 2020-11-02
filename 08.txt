@@ -14,9 +14,8 @@ Questions before class:
 After class:
 ------------
 Answer to questions:
-	1.
+	1.No, System V IPC is the name given to three interprocess communication mechanisms that are widely available on UNIX systems: message queues, semaphore, and shared memory.
 
-Important take-away:
 -
 -
 -
