@@ -4,13 +4,11 @@ Lecture 10
 Before class:
 -------------
 I carrefully read the slides about daemon thread and HTTP
-I searched on the internet and readed some video about  Daemon thread and Worker thread.
-Questions before class:
-	1.
+I searched on the internet and  watched some video about  Daemon thread and Worker thread.
+I reviewed basic concepts in HTTP.
 
 After class:
 ------------
-Answer to questions:
--
--
--
+Important take-away:
+- Five classes of Server status codes.
+- HTTP can not only transfer static resources but also executed resources such as CGI.
