@@ -8,5 +8,5 @@ Tried commands readelf and hexdump.
 
 After class:
 ------------
-Important take-away:
+Important take-awayis:
 
