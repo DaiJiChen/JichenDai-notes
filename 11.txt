@@ -1,0 +1,12 @@
+Lecture 11
+==========
+
+Before class:
+-------------
+I carrefully read the slides and youtube videos in week 11.
+Tried commands readelf and hexdump.
+
+After class:
+------------
+Important take-away:
+
