@@ -9,4 +9,6 @@ Tried commands readelf and hexdump.
 After class:
 ------------
 Important take-awayis:
+- Object file is just like other format of file, has certain formats.
+- We can use hexdump / readelf to read executable files.
 
