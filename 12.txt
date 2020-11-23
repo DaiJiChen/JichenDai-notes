@@ -1,0 +1,13 @@
+Lecture 12
+==========
+
+Before class:
+-------------
+1. I carrefully read the slides and youtube videos in week 12.
+2. Knowledged the concept about syslog, Non-blocking I/O, Resource Locking, Asnchronous and Memory Mapped I/O/
+3. Runned Demo codes.
+
+After class:
+------------
+Important take-awayis:
+
