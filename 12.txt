@@ -10,4 +10,5 @@ Before class:
 After class:
 ------------
 Important take-awayis:
-
+- Non-blocking I/O let the operation avoid been blocked forever.
+- salt is did before encryption 
