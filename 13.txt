@@ -1,0 +1,13 @@
+Lecture 13
+==========
+
+Before class:
+-------------
+1. I read the slides and youtube videos in week 13.
+2. Knowledged the concept about Access Control List(ACL), 
+3. Knowledged the concept about Restricted Shell.
+
+After class:
+------------
+Important take-awayis:
+- 
